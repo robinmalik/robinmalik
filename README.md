@@ -2,7 +2,8 @@
 
 - ⚒️ I'm currently working on designing and deploying an Azure Virtual Desktop environment, exploring the possibilities with Microsoft Teams chatbots and migrating a Cisco UCS environment to new hardware. As usual, PowerShell where possible :)
 - 📖 I'm currently learning the intricacies of the Azure Bot Framework, and furthering my knowledge of Microsoft Graph.
-- 📫 How to reach me: [https://twitter.com/robinmalik](https://twitter.com/robinmalik)
+- 📫 How to reach me: [Twitter](https://twitter.com/robinmalik) / [LinkedIn](www.linkedin.com/in/iamrobinmalik).
+
 
 <!--
 **robinmalik/robinmalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
