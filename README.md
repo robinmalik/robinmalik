@@ -2,7 +2,7 @@
 
 - ⚒️ I'm currently working on designing and deploying Ansible with Ansible Semaphore, refactoring internal codebases and ensuring use of CI/CD, exploring the possibilities with Microsoft Teams chatbots and training new staff within our Platforms section. As usual, PowerShell where possible :)
 - 📖 I'm currently learning the intricacies of the Azure Bot Framework, and furthering my knowledge of Microsoft Graph.
-- 📫 How to reach me: [Mastodon](https://mastodon.social/@robinmalik) / [Twitter](https://twitter.com/robinmalik) / [LinkedIn](https://www.linkedin.com/in/iamrobinmalik).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/iamrobinmalik) / [Mastodon](https://mastodon.social/@robinmalik) 
 
 
 <!--
